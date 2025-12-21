@@ -25,3 +25,5 @@
 - [cite_start]**Soddo, Ethiopia** [cite: 23]
 - [cite_start]**Email**: chalachewbelay43@gmail.com [cite: 23]
 - [cite_start]**Phone**: +251 919961315 [cite: 23]
+### 📄 My CV
+- [Download My Professional CV (PDF)](Chalachew_Belay_CV.pdf)
