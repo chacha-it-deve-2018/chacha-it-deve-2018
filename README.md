@@ -26,4 +26,4 @@
 - [cite_start]**Email**: chalachewbelay43@gmail.com [cite: 23]
 - [cite_start]**Phone**: +251 919961315 [cite: 23]
 ### 📄 My CV
-[📄 Download My Professional CV (PDF)](https://github.com/chacha-it-deve-2018/new-descripitions/blob/main/chalachew_it_deve.pdf)
+[Download My Professional CV (PDF)](https://github.com/chacha-it-deve-2018/new-descripitions/blob/main/chalachew_it_deve.pdf)
